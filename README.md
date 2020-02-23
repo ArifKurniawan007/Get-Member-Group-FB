@@ -6,8 +6,8 @@ You can get chromedriver in <a href="https://chromedriver.chromium.org/downloads
 
 
 #### How to running script
-**from getMemberFroupFB import get_member**<br>
-**get_member(id_group="you must input id facebook group", email="your facebook email", password="your facebook password")**
+from getMemberFroupFB import get_member<br>
+get_member(id_group="you must input id facebook group", email="your facebook email", password="your facebook password")
 
 ### Requirement:
 1. python3.7
